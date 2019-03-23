@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u38 {
+#u39 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:0px;
   height:0px;
 }
-#u39_img {
+#u40_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,48 +28,13 @@
   width:400px;
   height:400px;
 }
-#u39 {
+#u40 {
   border-width:0px;
   position:absolute;
   left:58px;
   top:85px;
   width:400px;
   height:400px;
-}
-#u39_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u40_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:175px;
-  height:349px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u40 {
-  border-width:0px;
-  position:absolute;
-  left:173px;
-  top:116px;
-  width:175px;
-  height:349px;
 }
 #u40_text {
   border-width:0px;
@@ -86,7 +51,7 @@
   left:0px;
   top:0px;
   width:175px;
-  height:31px;
+  height:349px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -101,10 +66,10 @@
 #u41 {
   border-width:0px;
   position:absolute;
-  left:171px;
-  top:118px;
+  left:173px;
+  top:116px;
   width:175px;
-  height:31px;
+  height:349px;
 }
 #u41_text {
   border-width:0px;
@@ -116,6 +81,41 @@
   word-wrap:break-word;
 }
 #u42_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:175px;
+  height:31px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u42 {
+  border-width:0px;
+  position:absolute;
+  left:171px;
+  top:118px;
+  width:175px;
+  height:31px;
+}
+#u42_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u43_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -134,7 +134,7 @@
   font-style:normal;
   font-size:28px;
 }
-#u42 {
+#u43 {
   border-width:0px;
   position:absolute;
   left:207px;
@@ -146,7 +146,7 @@
   font-style:normal;
   font-size:28px;
 }
-#u42_text {
+#u43_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -154,7 +154,7 @@
   width:105px;
   word-wrap:break-word;
 }
-#u43_div {
+#u44_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -171,34 +171,34 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Fett', 'Arial Standard', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:18px;
   color:#FFFFFF;
 }
-#u43 {
+#u44 {
   border-width:0px;
   position:absolute;
   left:188px;
   top:366px;
   width:140px;
   height:40px;
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Fett', 'Arial Standard', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:18px;
   color:#FFFFFF;
 }
-#u43_text {
+#u44_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:10px;
+  top:9px;
   width:136px;
   word-wrap:break-word;
 }
-#u44_div {
+#u45_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -212,22 +212,22 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial';
+  font-family:'Arial Kursiv', 'Arial Standard', 'Arial';
   font-weight:400;
   font-style:italic;
 }
-#u44 {
+#u45 {
   border-width:0px;
   position:absolute;
   left:187px;
   top:213px;
   width:146px;
   height:96px;
-  font-family:'Arial-ItalicMT', 'Arial Italic', 'Arial';
+  font-family:'Arial Kursiv', 'Arial Standard', 'Arial';
   font-weight:400;
   font-style:italic;
 }
-#u44_text {
+#u45_text {
   border-width:0px;
   position:absolute;
   left:0px;
